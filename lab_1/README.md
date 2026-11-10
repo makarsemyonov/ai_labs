@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/makarsemyonov/ai_labs/blob/main/lab_1/lab_1.ipynb)
+
 # Практическое занятие 1. Рабочее окружение
 
 Автор: Семёнов Макар Сергеевич, группа 251-952
